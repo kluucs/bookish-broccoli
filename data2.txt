@@ -1,0 +1,3 @@
+foo(bar,zip)upper(case)win_dows()
+hi(there)
+this-isaFunction(with, parameters)    hello(candidate)
